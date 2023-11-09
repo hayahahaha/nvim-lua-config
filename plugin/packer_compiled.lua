@@ -120,11 +120,6 @@ _G.packer_plugins = {
     path = "/home/haya/.local/share/nvim/site/pack/packer/start/goyo.vim",
     url = "https://github.com/junegunn/goyo.vim"
   },
-  ["gruvbox.nvim"] = {
-    loaded = true,
-    path = "/home/haya/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
-    url = "https://github.com/ellisonleao/gruvbox.nvim"
-  },
   harpoon = {
     loaded = true,
     path = "/home/haya/.local/share/nvim/site/pack/packer/start/harpoon",
@@ -220,6 +215,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/haya/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
     url = "https://github.com/akinsho/toggleterm.nvim"
+  },
+  ["tokyonight.nvim"] = {
+    loaded = true,
+    path = "/home/haya/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+    url = "https://github.com/folke/tokyonight.nvim"
   },
   ["vim-fugitive"] = {
     loaded = true,

@@ -21,7 +21,8 @@ return require('packer').startup(function(use)
   --  end
   -- })
   --
-  use { "ellisonleao/gruvbox.nvim" }
+  -- use { "ellisonleao/gruvbox.nvim" }
+  use { "folke/tokyonight.nvim" }
   -- nvim status line
   use 'nvim-lualine/lualine.nvim'    -- Statusline
   -- nvim icon
