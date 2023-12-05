@@ -34,3 +34,5 @@ vim.opt.cursorline = true
 vim.g.copilot_node_command = "/usr/local/n/versions/node/16.16.0/bin/node"
 
 vim.opt.ignorecase = true
+
+vim.opt.background = "dark"

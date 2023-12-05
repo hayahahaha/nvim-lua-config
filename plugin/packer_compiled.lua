@@ -110,6 +110,11 @@ _G.packer_plugins = {
     path = "/home/haya/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
   },
+  ["copilot.vim"] = {
+    loaded = true,
+    path = "/home/haya/.local/share/nvim/site/pack/packer/start/copilot.vim",
+    url = "https://github.com/github/copilot.vim"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/home/haya/.local/share/nvim/site/pack/packer/start/friendly-snippets",
@@ -119,6 +124,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/haya/.local/share/nvim/site/pack/packer/start/goyo.vim",
     url = "https://github.com/junegunn/goyo.vim"
+  },
+  ["gruvbox.nvim"] = {
+    loaded = true,
+    path = "/home/haya/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
+    url = "https://github.com/ellisonleao/gruvbox.nvim"
   },
   harpoon = {
     loaded = true,
